@@ -1,7 +1,8 @@
-# gb-sketch-resize_each
+# Resize each
 Resize each selected item from any anchor point
 ctrl-shift-r
 written by German Bauer
+![](assets/gb_resize_each.png)
 
 Specify:
 
